@@ -1,0 +1,13 @@
+body {
+    background-color: silver;
+    font-family: 'Girassol', cursive;
+}
+
+.people {
+    width: 270px;
+    height: 200px;
+}
+
+.confirm {
+    width: 270px;
+}
